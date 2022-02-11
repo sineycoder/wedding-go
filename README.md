@@ -1,6 +1,4 @@
-# wxcloudrun-golang
-[![GitHub license](https://img.shields.io/github/license/WeixinCloud/wxcloudrun-express)](https://github.com/WeixinCloud/wxcloudrun-express)
-![GitHub package.json dependency version (prod)](https://img.shields.io/badge/golang-1.17.1-green)
+# wedding-go
 
 微信云托管 golang 模版，实现简单的计数器读写接口，使用云托管 MySQL 读写、记录计数值。
 
